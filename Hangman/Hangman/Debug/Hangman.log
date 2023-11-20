@@ -1,0 +1,3 @@
+﻿  Hangman.cpp
+C:\Users\gular\source\repos\Hangman\Hangman\Hangman.cpp(46,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Hangman.vcxproj -> C:\Users\gular\source\repos\Hangman\Debug\Hangman.exe
